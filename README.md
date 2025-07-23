@@ -36,6 +36,9 @@ This framework allows control of systems with **unknown nonlinear dynamics**, wi
 - **`Swing_up`**:  
   Work in progress. Logs experimental variations, hyperparameter studies, and ablation results for a swing up cartpole environment.
 
+- **`iLQR`**:  
+  Simple iLQR implementation. The model has access to dynamics equations of the environment.
+
 ---
 
 ## 👩‍💻 Contributors
